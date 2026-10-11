@@ -1,0 +1,5 @@
+class EstadoReserva:
+    CONFIRMADA = "CONFIRMADA"
+    CANCELADA = "CANCELADA"
+    NO_SHOW = "NO_SHOW"
+    ANULADA = "ANULADA"
